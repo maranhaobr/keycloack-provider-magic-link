@@ -1,0 +1,1 @@
+# keycloack-provider-magic-link
